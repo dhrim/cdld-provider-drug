@@ -1,0 +1,33 @@
+  A 공유 완료 (5겹, 계산 0)
+  ✓ CDLD-A base_real_f0_B  BSS +0.14115  AUC 0.7847  295s
+  ✓ CDLD-A base_real_f1_B  BSS +0.14195  AUC 0.7891  316s
+  ✓ CDLD-A base_real_f2_B  BSS +0.14477  AUC 0.7881  289s
+  ✓ CDLD-A base_real_f3_B  BSS +0.13578  AUC 0.7827  290s
+  ✓ CDLD-A base_real_f4_B  BSS +0.13782  AUC 0.7819  301s
+  ✓ CDLD-A base_shuffle0_f0_B  BSS +0.13689  AUC 0.7794  304s
+  ✓ CDLD-A base_shuffle0_f1_B  BSS +0.13670  AUC 0.7825  300s
+  ✓ CDLD-A base_shuffle0_f2_B  BSS +0.14050  AUC 0.7829  302s
+  ✓ CDLD-A base_shuffle0_f3_B  BSS +0.13118  AUC 0.7768  285s
+  ✓ CDLD-A base_shuffle0_f4_B  BSS +0.13368  AUC 0.7765  288s
+  ✓ CDLD-A base_shuffle1_f0_B  BSS +0.13719  AUC 0.7796  304s
+  ✓ CDLD-A base_shuffle1_f1_B  BSS +0.13683  AUC 0.7828  300s
+  ✓ CDLD-A base_shuffle1_f2_B  BSS +0.14034  AUC 0.7827  296s
+  ✓ CDLD-A base_shuffle1_f3_B  BSS +0.13100  AUC 0.7767  284s
+  ✓ CDLD-A base_shuffle1_f4_B  BSS +0.13357  AUC 0.7764  296s
+  ✓ CDLD-A base_real_f0_C  BSS +0.14267  AUC 0.7861  314s
+  ✓ CDLD-A base_real_f1_C  BSS +0.14514  AUC 0.7892  312s
+  ✓ CDLD-A base_real_f2_C  BSS +0.14523  AUC 0.7885  315s
+  ✓ CDLD-A base_real_f3_C  BSS +0.13736  AUC 0.7839  321s
+  ✓ CDLD-A base_real_f4_C  BSS +0.13896  AUC 0.7856  279s
+  ✓ CDLD-A base_shuffle0_f0_C  BSS +0.13741  AUC 0.7800  314s
+  ✓ CDLD-A base_shuffle0_f1_C  BSS +0.13785  AUC 0.7822  324s
+  ✓ CDLD-A base_shuffle0_f2_C  BSS +0.14000  AUC 0.7823  322s
+  ✓ CDLD-A base_shuffle0_f3_C  BSS +0.13208  AUC 0.7772  325s
+  ✓ CDLD-A base_shuffle0_f4_C  BSS +0.13401  AUC 0.7792  324s
+  ✓ CDLD-A base_shuffle1_f0_C  BSS +0.13763  AUC 0.7801  318s
+  ✓ CDLD-A base_shuffle1_f1_C  BSS +0.13909  AUC 0.7823  321s
+  ✓ CDLD-A base_shuffle1_f2_C  BSS +0.13993  AUC 0.7822  318s
+  ✓ CDLD-A base_shuffle1_f3_C  BSS +0.13185  AUC 0.7771  306s
+  ✓ CDLD-A base_shuffle1_f4_C  BSS +0.13384  AUC 0.7792  312s
+
+[CDLD-A] 이번 호출 30건 · 남은 0건 / 전체 30건

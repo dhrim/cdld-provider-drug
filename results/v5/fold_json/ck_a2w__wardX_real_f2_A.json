@@ -1,0 +1,1 @@
+{"tag": "wardX", "arm": "real", "fold": 2, "kind": "A", "n_te": 867192, "sse": 62516.59375, "sstot": 73266.7734375, "auc": 0.7889166587886638, "secs": 374.8, "model": "CDLD-A", "shared_from": "native CDLD A"}

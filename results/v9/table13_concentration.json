@@ -1,0 +1,66 @@
+{
+ "top_quantile": 0.1,
+ "nulls": [
+  "shuffle0",
+  "shuffle1",
+  "shuffle2"
+ ],
+ "A": {
+  "capture": 39.149583283959394,
+  "obsrate": 363.51383256963277,
+  "top_events": 436253,
+  "top_positives": 158584,
+  "all_positives": 405072
+ },
+ "C_real": {
+  "capture": 40.10250029624363,
+  "obsrate": 372.36190925907675,
+  "top_events": 436253,
+  "top_positives": 162444,
+  "all_positives": 405072
+ },
+ "C_nulls": {
+  "shuffle0": {
+   "capture": 38.93455978196469,
+   "obsrate": 361.51728469489035,
+   "top_events": 436253,
+   "top_positives": 157713,
+   "all_positives": 405072
+  },
+  "shuffle1": {
+   "capture": 38.94443456965675,
+   "obsrate": 361.6089746087706,
+   "top_events": 436253,
+   "top_positives": 157753,
+   "all_positives": 405072
+  },
+  "shuffle2": {
+   "capture": 38.96023422996406,
+   "obsrate": 361.755678470979,
+   "top_events": 436253,
+   "top_positives": 157817,
+   "all_positives": 405072
+  }
+ },
+ "C_null_mean": {
+  "capture": 38.946409527195165,
+  "obsrate": 361.6273125915466
+ },
+ "agreement_vs_recorded": {
+  "A": {
+   "n": 5,
+   "mean": 0.00041459813281681247,
+   "maxabs": 0.0011852126574565247
+  },
+  "C_real": {
+   "n": 5,
+   "mean": 7.884176670032161e-05,
+   "maxabs": 0.0008886180907851093
+  },
+  "C_null": {
+   "n": 15,
+   "mean": 0.00018632494302136168,
+   "maxabs": 0.0014421633368112419
+  }
+ }
+}

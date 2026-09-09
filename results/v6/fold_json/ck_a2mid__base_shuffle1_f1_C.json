@@ -1,0 +1,1 @@
+{"tag": "base", "model": "CDLD-A2-mid", "arm": "shuffle1", "fold": 1, "kind": "C", "n_te": 870947, "sse": 63555.69921875, "sstot": 73727.5390625, "auc": 0.7821859867817191, "secs": 356.1}

@@ -1,0 +1,49 @@
+# v9 재현 경로 smoke test — «자료 없는» 깨끗한 압축해제에서 실행
+# 2026-09-08T06:11:47Z
+# $ tar xzf repo_v9.tgz && cd repo_v2 && bash tools/smoke_test.sh
+
+=== 자료 없이 통과해야 하는 것 ===
+python3 verify.py                             OK   (exit 0)
+python3 src/verify_v5.py                      OK   (exit 0)
+python3 src/verify_v6.py                      OK   (exit 0)
+python3 src/verify_v8.py                      OK   (exit 0)
+python3 src/figs_v6.py                        OK   (exit 0)
+python3 src/figs_v8.py                        OK   (exit 0)
+python3 src/figs_v9.py                        OK   (exit 0)
+python3 src/verify_v9.py                      OK   (exit 0)
+python3 src/cdld_a.py                         OK   (exit 0)
+
+=== 자료가 필요한 것 — «깨끗이» 멈춰야 한다 ===
+python3 src/build_emar.py                     CLEAN STOP (usage)
+python3 src/map_careunit.py                   CLEAN STOP (need_data)
+python3 src/diag_null_B.py                    CLEAN STOP (need_data)
+python3 src/run_prereg.py none                CLEAN STOP (need_data)
+python3 src/run_ward.py                       CLEAN STOP (need_data)
+python3 src/run_cdld.py 5                     CLEAN STOP (need_data)
+python3 src/run_sens.py temporal 5            CLEAN STOP (need_data)
+python3 src/run_cdld_a.py 5                   CLEAN STOP (need_data)
+python3 src/run_cdld_a2.py 5                  CLEAN STOP (need_data)
+python3 src/run_cdld_a2_ward.py 5             CLEAN STOP (need_data)
+python3 src/run_nat_nodecay.py 5              CLEAN STOP (need_data)
+python3 src/run_a2_mid.py 5                   CLEAN STOP (need_data)
+python3 src/run_a2_null3.py 5                 CLEAN STOP (need_data)
+python3 src/run_seed.py 1                     CLEAN STOP (need_data)
+python3 src/retrain_b.py 0                    CLEAN STOP (need_data)
+python3 src/retrain_c.py 0                    CLEAN STOP (need_data)
+python3 src/diag_d.py                         CLEAN STOP (need_data)
+python3 src/diag_fn.py                        CLEAN STOP (need_data)
+python3 src/diag_fn2.py                       CLEAN STOP (need_data)
+python3 src/interp_fit.py 5                   CLEAN STOP (need_data)
+python3 src/collect.py                        CLEAN STOP (need_data)
+python3 src/final.py                          CLEAN STOP (need_data)
+python3 src/final_ward.py                     CLEAN STOP (need_data)
+python3 src/adj_a2.py                         OK   (exit 0)
+python3 src/boot_gate2.py                     CLEAN STOP (need_data)
+python3 src/collect_v6.py                     CLEAN STOP (need_data)
+python3 src/defend3.py                        CLEAN STOP (need_data)
+python3 src/profiles2.py                      CLEAN STOP (need_data)
+python3 src/diag_null_B.py                    CLEAN STOP (need_data)
+
+전부 통과
+
+exit code: 0

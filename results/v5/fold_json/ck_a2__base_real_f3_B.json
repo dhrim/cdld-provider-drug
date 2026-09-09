@@ -1,0 +1,1 @@
+{"tag": "base", "model": "CDLD-A", "arm": "real", "fold": 3, "kind": "B", "n_te": 898456, "sse": 64859.5625, "sstot": 75049.609375, "auc": 0.7827025181720048, "secs": 289.9}

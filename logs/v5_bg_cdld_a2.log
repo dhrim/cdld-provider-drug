@@ -1,0 +1,18 @@
+  A 공유 완료 (5겹, 계산 0)
+  ✓ CDLD-A2 base_real_f0_C  BSS +0.15052  AUC 0.7937  275s
+  ✓ CDLD-A2 base_real_f1_C  BSS +0.15399  AUC 0.7983  313s
+  ✓ CDLD-A2 base_real_f2_C  BSS +0.15417  AUC 0.7967  306s
+  ✓ CDLD-A2 base_real_f3_C  BSS +0.14575  AUC 0.7913  307s
+  ✓ CDLD-A2 base_real_f4_C  BSS +0.14710  AUC 0.7937  308s
+  ✓ CDLD-A2 base_shuffle0_f0_C  BSS +0.13564  AUC 0.7779  307s
+  ✓ CDLD-A2 base_shuffle0_f1_C  BSS +0.13718  AUC 0.7810  313s
+  ✓ CDLD-A2 base_shuffle0_f2_C  BSS +0.13960  AUC 0.7813  318s
+  ✓ CDLD-A2 base_shuffle0_f3_C  BSS +0.13106  AUC 0.7758  310s
+  ✓ CDLD-A2 base_shuffle0_f4_C  BSS +0.13269  AUC 0.7779  307s
+  ✓ CDLD-A2 base_shuffle1_f0_C  BSS +0.13585  AUC 0.7781  310s
+  ✓ CDLD-A2 base_shuffle1_f1_C  BSS +0.13739  AUC 0.7815  313s
+  ✓ CDLD-A2 base_shuffle1_f2_C  BSS +0.13936  AUC 0.7811  305s
+  ✓ CDLD-A2 base_shuffle1_f3_C  BSS +0.13111  AUC 0.7759  304s
+  ✓ CDLD-A2 base_shuffle1_f4_C  BSS +0.13255  AUC 0.7778  307s
+
+[CDLD-A] 이번 호출 15건 · 남은 0건 / 전체 15건

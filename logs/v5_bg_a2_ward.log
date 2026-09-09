@@ -1,0 +1,33 @@
+  A 공유 완료 (5겹, 계산 0)
+  ✓ CDLD-A2 wardX_real_f0_B  BSS +0.14583  AUC 0.7900  358s
+  ✓ CDLD-A2 wardX_real_f1_B  BSS +0.14940  AUC 0.7939  366s
+  ✓ CDLD-A2 wardX_real_f2_B  BSS +0.14878  AUC 0.7932  363s
+  ✓ CDLD-A2 wardX_real_f3_B  BSS +0.14067  AUC 0.7881  354s
+  ✓ CDLD-A2 wardX_real_f4_B  BSS +0.14327  AUC 0.7905  341s
+  ✓ CDLD-A2 wardX_shuffle0_f0_B  BSS +0.14196  AUC 0.7860  355s
+  ✓ CDLD-A2 wardX_shuffle0_f1_B  BSS +0.14495  AUC 0.7892  373s
+  ✓ CDLD-A2 wardX_shuffle0_f2_B  BSS +0.14553  AUC 0.7889  358s
+  ✓ CDLD-A2 wardX_shuffle0_f3_B  BSS +0.13689  AUC 0.7839  360s
+  ✓ CDLD-A2 wardX_shuffle0_f4_B  BSS +0.13977  AUC 0.7866  375s
+  ✓ CDLD-A2 wardX_shuffle1_f0_B  BSS +0.14225  AUC 0.7861  354s
+  ✓ CDLD-A2 wardX_shuffle1_f1_B  BSS +0.14512  AUC 0.7895  362s
+  ✓ CDLD-A2 wardX_shuffle1_f2_B  BSS +0.14484  AUC 0.7890  359s
+  ✓ CDLD-A2 wardX_shuffle1_f3_B  BSS +0.13680  AUC 0.7838  343s
+  ✓ CDLD-A2 wardX_shuffle1_f4_B  BSS +0.13970  AUC 0.7866  379s
+  ✓ CDLD-A2 wardX_real_f0_C  BSS +0.15255  AUC 0.7957  367s
+  ✓ CDLD-A2 wardX_real_f1_C  BSS +0.15686  AUC 0.8002  363s
+  ✓ CDLD-A2 wardX_real_f2_C  BSS +0.15640  AUC 0.7988  349s
+  ✓ CDLD-A2 wardX_real_f3_C  BSS +0.14709  AUC 0.7943  360s
+  ✓ CDLD-A2 wardX_real_f4_C  BSS +0.14994  AUC 0.7964  381s
+  ✓ CDLD-A2 wardX_shuffle0_f0_C  BSS +0.14164  AUC 0.7850  378s
+  ✓ CDLD-A2 wardX_shuffle0_f1_C  BSS +0.14364  AUC 0.7879  373s
+  ✓ CDLD-A2 wardX_shuffle0_f2_C  BSS +0.14547  AUC 0.7885  370s
+  ✓ CDLD-A2 wardX_shuffle0_f3_C  BSS +0.13607  AUC 0.7825  360s
+  ✓ CDLD-A2 wardX_shuffle0_f4_C  BSS +0.13810  AUC 0.7851  372s
+  ✓ CDLD-A2 wardX_shuffle1_f0_C  BSS +0.14183  AUC 0.7851  368s
+  ✓ CDLD-A2 wardX_shuffle1_f1_C  BSS +0.14402  AUC 0.7882  365s
+  ✓ CDLD-A2 wardX_shuffle1_f2_C  BSS +0.14508  AUC 0.7879  367s
+  ✓ CDLD-A2 wardX_shuffle1_f3_C  BSS +0.13605  AUC 0.7825  357s
+  ✓ CDLD-A2 wardX_shuffle1_f4_C  BSS +0.13813  AUC 0.7853  349s
+
+[CDLD-A] 이번 호출 30건 · 남은 0건 / 전체 30건

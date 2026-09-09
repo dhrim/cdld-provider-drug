@@ -1,0 +1,49 @@
+  A 공유 완료 (5겹, 계산 0)
+  ✓ natND base_real_f0_C  BSS +0.14857  AUC 0.7927  438s
+  ✓ natND base_real_f1_C  BSS +0.15394  AUC 0.7977  431s
+  ✓ natND base_real_f2_C  BSS +0.15203  AUC 0.7952  423s
+  ✓ natND base_real_f3_C  BSS +0.14337  AUC 0.7903  411s
+  ✓ natND base_real_f4_C  BSS +0.14688  AUC 0.7942  434s
+  ✓ natND base_shuffle0_f0_C  BSS +0.13551  AUC 0.7774  412s
+  ✓ natND base_shuffle0_f1_C  BSS +0.13749  AUC 0.7798  423s
+  ✓ natND base_shuffle0_f2_C  BSS +0.13986  AUC 0.7808  412s
+  ✓ natND base_shuffle0_f3_C  BSS +0.12955  AUC 0.7744  407s
+  ✓ natND base_shuffle0_f4_C  BSS +0.13246  AUC 0.7766  422s
+  ✓ natND base_shuffle1_f0_C  BSS +0.13525  AUC 0.7774  442s
+  ✓ natND base_shuffle1_f1_C  BSS +0.13710  AUC 0.7807  432s
+  ✓ natND base_shuffle1_f2_C  BSS +0.13917  AUC 0.7802  413s
+  ✓ natND base_shuffle1_f3_C  BSS +0.12976  AUC 0.7746  404s
+  ✓ natND base_shuffle1_f4_C  BSS +0.13311  AUC 0.7773  420s
+
+[CDLD-A] 이번 호출 15건 · 남은 0건 / 전체 15건
+  A 공유 완료 (5겹, 계산 0)
+  ✓ A2mid base_real_f0_C  BSS +0.14940  AUC 0.7924  359s
+  ✓ A2mid base_real_f1_C  BSS +0.15238  AUC 0.7966  340s
+  ✓ A2mid base_real_f2_C  BSS +0.15297  AUC 0.7954  376s
+  ✓ A2mid base_real_f3_C  BSS +0.14467  AUC 0.7900  359s
+  ✓ A2mid base_real_f4_C  BSS +0.14605  AUC 0.7921  367s
+  ✓ A2mid base_shuffle0_f0_C  BSS +0.13634  AUC 0.7786  372s
+  ✓ A2mid base_shuffle0_f1_C  BSS +0.13778  AUC 0.7817  361s
+  ✓ A2mid base_shuffle0_f2_C  BSS +0.14018  AUC 0.7820  383s
+  ✓ A2mid base_shuffle0_f3_C  BSS +0.13165  AUC 0.7764  357s
+  ✓ A2mid base_shuffle0_f4_C  BSS +0.13325  AUC 0.7785  358s
+  ✓ A2mid base_shuffle1_f0_C  BSS +0.13652  AUC 0.7788  377s
+  ✓ A2mid base_shuffle1_f1_C  BSS +0.13797  AUC 0.7822  356s
+  ✓ A2mid base_shuffle1_f2_C  BSS +0.13997  AUC 0.7818  344s
+  ✓ A2mid base_shuffle1_f3_C  BSS +0.13160  AUC 0.7765  359s
+  ✓ A2mid base_shuffle1_f4_C  BSS +0.13309  AUC 0.7783  353s
+
+[CDLD-A] 이번 호출 15건 · 남은 0건 / 전체 15건
+  ✓ seed base_seed1_f0_natB  BSS +0.14440  310s
+  ✓ seed base_seed1_f1_natB  BSS +0.14943  342s
+  ✓ seed base_seed1_f2_natB  BSS +0.14850  355s
+  ✓ seed base_seed2_f0_natB  BSS +0.14391  321s
+  ✓ seed base_seed2_f1_natB  BSS +0.14755  359s
+  ✓ seed base_seed2_f2_natB  BSS +0.14875  311s
+  ✓ seed base_seed1_f0_aliB  BSS +0.14055  326s
+  ✓ seed base_seed1_f1_aliB  BSS +0.14373  354s
+  ✓ seed base_seed1_f2_aliB  BSS +0.14465  293s
+  ✓ seed base_seed2_f0_aliB  BSS +0.14038  341s
+  ✓ seed base_seed2_f1_aliB  BSS +0.14312  353s
+  ✓ seed base_seed2_f2_aliB  BSS +0.14555  351s
+=== 실험 A·B·D 완료 ===

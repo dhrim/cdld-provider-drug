@@ -1,0 +1,1 @@
+{"tag": "temporal", "arm": "shuffle0", "fold": 0, "kind": "B", "n_te": 2286633, "sse": 168760.5, "sstot": 195593.5, "auc": 0.778831804476956, "secs": 176.9, "latent": 64}

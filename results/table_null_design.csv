@@ -1,0 +1,4 @@
+design,providers_per_admission_mean,median,max,provider_events_median,provider_events_max,share_unchanged
+observed data,3.02,2,635,2654,46637,1.0
+null v1 (broken: fancy-index collapse),1.0,1,1,2505,182967,
+"null v2 (corrected, used here)",3.02,2,635,2754,42465,0.0026

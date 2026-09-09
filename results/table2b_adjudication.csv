@@ -1,0 +1,6 @@
+criterion,definition,threshold,cyclic_dual_latent,verdict_CDLD,low_rank,verdict_ALS
+S,shuffled-arm latent net gain <= 0,<= 0,-0.0004,met,-0.0008,met
+U0,severity proxies in the baseline,included,included,met,included,met
+R,entity net value (C-A),>= +0.010,0.0154,met,0.0188,met
+Q2,latent net gain (C-B),>= +0.005,0.0057,met,0.0113,met
+Q2b,latent / main-effect net gain,>= 1.0,0.595,NOT MET,1.509,met

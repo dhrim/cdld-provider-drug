@@ -1,0 +1,7 @@
+[temporal] 4,362,548행 · 간호사 936 x 약물 522 · 누락률 0.09285 · 잠재 64차원
+  ✓ temporal_shuffle0_f0_B  R2 +0.1372  AUC 0.7788  177s
+  ✓ temporal_shuffle1_f0_B  R2 +0.1384  AUC 0.7784  174s
+  ✓ temporal_shuffle0_f0_C  R2 +0.1364  AUC 0.7763  174s
+  ✓ temporal_shuffle1_f0_C  R2 +0.1358  AUC 0.7756  178s
+
+[temporal] 남은 0 / 전체 7

@@ -1,0 +1,13 @@
+  A 공유 완료 (5겹, 계산 0)
+  ✓ A2n3 base_shuffle2_f0_B  BSS +0.13707  AUC 0.7799  322s
+  ✓ A2n3 base_shuffle2_f1_B  BSS +0.13855  AUC 0.7830  336s
+  ✓ A2n3 base_shuffle2_f2_B  BSS +0.14146  AUC 0.7830  344s
+  ✓ A2n3 base_shuffle2_f3_B  BSS +0.13144  AUC 0.7769  343s
+  ✓ A2n3 base_shuffle2_f4_B  BSS +0.13274  AUC 0.7786  344s
+  ✓ A2n3 base_shuffle2_f0_C  BSS +0.13528  AUC 0.7783  363s
+  ✓ A2n3 base_shuffle2_f1_C  BSS +0.13740  AUC 0.7813  358s
+  ✓ A2n3 base_shuffle2_f2_C  BSS +0.13945  AUC 0.7814  354s
+  ✓ A2n3 base_shuffle2_f3_C  BSS +0.13111  AUC 0.7761  348s
+  ✓ A2n3 base_shuffle2_f4_C  BSS +0.13285  AUC 0.7774  350s
+
+[CDLD-A] 이번 호출 10건 · 남은 0건 / 전체 10건

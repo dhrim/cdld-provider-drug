@@ -1,0 +1,32 @@
+  ✓ wardX_shuffle0_f0_B  R2 +0.1412  AUC 0.7848  337s
+  ✓ wardX_shuffle0_f1_B  R2 +0.1433  AUC 0.7877  340s
+  ✓ wardX_shuffle0_f2_B  R2 +0.1457  AUC 0.7885  334s
+  ✓ wardX_shuffle0_f3_B  R2 +0.1359  AUC 0.7829  323s
+  ✓ wardX_shuffle0_f4_B  R2 +0.1382  AUC 0.7832  337s
+  ✓ wardX_shuffle1_f0_B  R2 +0.1408  AUC 0.7849  336s
+  ✓ wardX_shuffle1_f1_B  R2 +0.1434  AUC 0.7883  342s
+  ✓ wardX_shuffle1_f2_B  R2 +0.1452  AUC 0.7882  328s
+  ✓ wardX_shuffle1_f3_B  R2 +0.1357  AUC 0.7828  312s
+  ✓ wardX_shuffle1_f4_B  R2 +0.1385  AUC 0.7837  338s
+  ✓ wardX_shuffle2_f0_B  R2 +0.1406  AUC 0.7847  316s
+  ✓ wardX_shuffle2_f1_B  R2 +0.1432  AUC 0.7878  337s
+  ✓ wardX_shuffle2_f2_B  R2 +0.1457  AUC 0.7886  340s
+  ✓ wardX_shuffle2_f3_B  R2 +0.1361  AUC 0.7832  324s
+  ✓ wardX_shuffle2_f4_B  R2 +0.1382  AUC 0.7829  335s
+  ✓ wardX_shuffle0_f0_C  R2 +0.1396  AUC 0.7830  340s
+  ✓ wardX_shuffle0_f1_C  R2 +0.1424  AUC 0.7864  348s
+  ✓ wardX_shuffle0_f2_C  R2 +0.1454  AUC 0.7879  370s
+  ✓ wardX_shuffle0_f3_C  R2 +0.1339  AUC 0.7807  356s
+  ✓ wardX_shuffle0_f4_C  R2 +0.1378  AUC 0.7824  370s
+  ✓ wardX_shuffle1_f0_C  R2 +0.1396  AUC 0.7839  342s
+  ✓ wardX_shuffle1_f1_C  R2 +0.1424  AUC 0.7872  345s
+  ✓ wardX_shuffle1_f2_C  R2 +0.1447  AUC 0.7877  344s
+  ✓ wardX_shuffle1_f3_C  R2 +0.1344  AUC 0.7815  337s
+  ✓ wardX_shuffle1_f4_C  R2 +0.1383  AUC 0.7842  375s
+  ✓ wardX_shuffle2_f0_C  R2 +0.1401  AUC 0.7840  349s
+  ✓ wardX_shuffle2_f1_C  R2 +0.1422  AUC 0.7865  370s
+  ✓ wardX_shuffle2_f2_C  R2 +0.1452  AUC 0.7880  343s
+  ✓ wardX_shuffle2_f3_C  R2 +0.1346  AUC 0.7812  326s
+  ✓ wardX_shuffle2_f4_C  R2 +0.1380  AUC 0.7838  371s
+
+[wardX] 이번 호출 30건 · 남은 0건 / 전체 45건

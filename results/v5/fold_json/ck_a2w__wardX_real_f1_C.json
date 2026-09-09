@@ -1,0 +1,1 @@
+{"tag": "wardX", "model": "CDLD-A2", "arm": "real", "fold": 1, "kind": "C", "n_te": 870947, "sse": 62162.625, "sstot": 73727.5390625, "auc": 0.8001561132091195, "secs": 362.8}

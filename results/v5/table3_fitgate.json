@@ -1,0 +1,13 @@
+{
+ "native_C_BSS": 0.14972082140905785,
+ "cdldA2_C_BSS": 0.15029595662946305,
+ "dBSS_point": 0.00057513522040522,
+ "ci_lo": 0.00018048936252769294,
+ "ci_hi": 0.001001898337544355,
+ "delta": 0.0025,
+ "gate_pass": true,
+ "B": 2000,
+ "n_patients": 98841,
+ "n_rows": 4362548,
+ "note": "conditional on the fitted models; evaluation-population sampling only"
+}

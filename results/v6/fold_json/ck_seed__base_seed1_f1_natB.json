@@ -1,0 +1,1 @@
+{"model": "natB", "seed": 1, "fold": 1, "kind": "natB", "arm": "seed1", "tag": "base", "sse": 62710.2265625, "sstot": 73727.5390625, "auc": 0.7949154540662672, "secs": 341.6}

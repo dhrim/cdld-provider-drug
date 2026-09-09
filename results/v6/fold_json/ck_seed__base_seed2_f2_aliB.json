@@ -1,0 +1,1 @@
+{"model": "aliB", "seed": 2, "fold": 2, "kind": "aliB", "arm": "seed2", "tag": "base", "sse": 62602.59765625, "sstot": 73266.7734375, "auc": 0.788120365018035, "secs": 350.7}

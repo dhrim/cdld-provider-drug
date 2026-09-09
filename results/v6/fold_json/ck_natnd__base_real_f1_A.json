@@ -1,0 +1,1 @@
+{"tag": "base", "arm": "real", "fold": 1, "kind": "A", "n_te": 870947, "sse": 63580.9296875, "sstot": 73727.5390625, "auc": 0.7828248915841947, "secs": 301.2, "model": "CDLD-A", "shared_from": "native CDLD A"}

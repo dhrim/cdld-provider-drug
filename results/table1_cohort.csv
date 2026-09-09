@@ -1,0 +1,17 @@
+item,value
+Medication administration events,"4,362,548"
+Recording providers,936
+Distinct medications,522
+Observed provider x drug cells,"106,580 / 488,592 (21.81%)"
+Non-administration rate,9.29%
+Providers in the emar table,"1,621"
+  overlap with prescribing physicians,18.7%
+  overlap with admitting physicians,2.3%
+  in neither group,81.3%
+Events per provider (median),748
+Patients per provider (median),107
+Distinct drugs per provider (median),89
+Night-shift share (median),0.20
+Care unit assigned,98.8% (42 units)
+Non-administration rate by care unit,4.5% - 11.2%
+Providers effectively in one care unit,45%

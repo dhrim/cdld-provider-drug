@@ -1,0 +1,9 @@
+[top100] 3,396,537행 · 간호사 889 x 약물 100 · 누락률 0.08996 · 잠재 64차원
+  ✓ top100_shuffle0_f0_B  R2 +0.1116  AUC 0.7736  195s
+  ✓ top100_shuffle0_f1_B  R2 +0.1079  AUC 0.7719  195s
+  ✓ top100_shuffle0_f2_B  R2 +0.1072  AUC 0.7675  197s
+  ✓ top100_shuffle0_f0_C  R2 +0.1098  AUC 0.7726  250s
+  ✓ top100_shuffle0_f1_C  R2 +0.1067  AUC 0.7702  262s
+  ✓ top100_shuffle0_f2_C  R2 +0.1051  AUC 0.7654  259s
+
+[top100] 남은 0 / 전체 15

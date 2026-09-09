@@ -1,0 +1,1 @@
+{"tag": "base", "model": "native-nodecay", "arm": "shuffle0", "fold": 2, "kind": "C", "n_te": 867192, "sse": 63019.91796875, "sstot": 73266.7734375, "auc": 0.7807702709087686, "secs": 412.1}

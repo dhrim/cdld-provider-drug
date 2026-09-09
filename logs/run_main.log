@@ -1,0 +1,32 @@
+  ✓ base_shuffle0_f0_B  R2 +0.1358  AUC 0.7785  281s
+  ✓ base_shuffle0_f1_B  R2 +0.1356  AUC 0.7805  260s
+  ✓ base_shuffle0_f2_B  R2 +0.1396  AUC 0.7818  268s
+  ✓ base_shuffle0_f3_B  R2 +0.1297  AUC 0.7759  254s
+  ✓ base_shuffle0_f4_B  R2 +0.1327  AUC 0.7774  266s
+  ✓ base_shuffle1_f0_B  R2 +0.1350  AUC 0.7777  253s
+  ✓ base_shuffle1_f1_B  R2 +0.1359  AUC 0.7810  257s
+  ✓ base_shuffle1_f2_B  R2 +0.1399  AUC 0.7815  256s
+  ✓ base_shuffle1_f3_B  R2 +0.1297  AUC 0.7760  260s
+  ✓ base_shuffle1_f4_B  R2 +0.1331  AUC 0.7779  251s
+  ✓ base_shuffle2_f0_B  R2 +0.1349  AUC 0.7782  264s
+  ✓ base_shuffle2_f1_B  R2 +0.1357  AUC 0.7805  272s
+  ✓ base_shuffle2_f2_B  R2 +0.1401  AUC 0.7819  276s
+  ✓ base_shuffle2_f3_B  R2 +0.1300  AUC 0.7762  271s
+  ✓ base_shuffle2_f4_B  R2 +0.1324  AUC 0.7770  268s
+  ✓ base_shuffle0_f0_C  R2 +0.1355  AUC 0.7779  344s
+  ✓ base_shuffle0_f1_C  R2 +0.1377  AUC 0.7796  342s
+  ✓ base_shuffle0_f2_C  R2 +0.1389  AUC 0.7804  342s
+  ✓ base_shuffle0_f3_C  R2 +0.1292  AUC 0.7740  337s
+  ✓ base_shuffle0_f4_C  R2 +0.1316  AUC 0.7736  319s
+  ✓ base_shuffle1_f0_C  R2 +0.1348  AUC 0.7769  341s
+  ✓ base_shuffle1_f1_C  R2 +0.1368  AUC 0.7802  342s
+  ✓ base_shuffle1_f2_C  R2 +0.1385  AUC 0.7800  347s
+  ✓ base_shuffle1_f3_C  R2 +0.1295  AUC 0.7750  354s
+  ✓ base_shuffle1_f4_C  R2 +0.1316  AUC 0.7745  343s
+  ✓ base_shuffle2_f0_C  R2 +0.1348  AUC 0.7777  342s
+  ✓ base_shuffle2_f1_C  R2 +0.1357  AUC 0.7794  353s
+  ✓ base_shuffle2_f2_C  R2 +0.1379  AUC 0.7803  346s
+  ✓ base_shuffle2_f3_C  R2 +0.1298  AUC 0.7748  344s
+  ✓ base_shuffle2_f4_C  R2 +0.1324  AUC 0.7771  350s
+
+[base] 이번 호출 30건 · 남은 0건 / 전체 45건

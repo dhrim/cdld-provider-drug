@@ -1,0 +1,3 @@
+지표,단위,A (제공자 없음),C (제공자 잠재 포함),real incremental gain (C−A),provider-shuffle-adjusted incremental gain,C 귀무 3팔 평균,C shuffle0,C shuffle1,C shuffle2
+top-10% capture rate,%,39.1,40.1,1.0,1.2,38.9,38.9,38.9,39.0
+top-10% observed documented non-administration rate,"per 1,000 events",363.5,372.4,8.8,10.7,361.6,361.5,361.6,361.8
